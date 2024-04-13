@@ -1,0 +1,11 @@
+<document>
+  <page>
+    <table rows="1" cols="3">
+      <row>
+        <cell>Name Alice Bob Charlie</cell>
+        <cell />
+        <cell>Age Gender 25 Female 32 Male 41 Male</cell>
+      </row>
+    </table>
+  </page>
+</document>
